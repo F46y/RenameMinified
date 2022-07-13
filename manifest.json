@@ -1,0 +1,13 @@
+{
+	"name": "Rename minified Files",
+	"description": "Rename minified files",
+	"version": "1.2.5.3",
+	"manifest_version": 3,
+	"background": {
+		"service_worker": "background.js"
+	},
+	"short_name": "RenameMin",
+	"action": {
+		"default_title": "Click to show an alert"
+	}
+}
